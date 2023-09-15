@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ReVG08
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Minecraft Modding
-- 💞️ I’m looking to collaborate on Minecraft Mods
-- 📫 How to reach me renato@revstudios.cf
+- 👋 Hi, I'm Renato
+- 👀 I’m interested in making solutions for real world problems
+- 🌱 I’m currently learning Bussiness
+- 💞️ I’m looking to collaborate on anything code related
+- 📫 How to reach me renato@redstonedynamics.com
