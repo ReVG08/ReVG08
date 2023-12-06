@@ -1,5 +1,5 @@
-- 👋 Hi, I'm Renato
-- 👀 I’m interested in making solutions for real world problems
-- 🌱 I’m currently learning Bussiness
-- 💞️ I’m looking to collaborate on anything code related
-- 📫 How to reach me renato@redstonedynamics.com
+-👋 Computer Scientist who's specialized in Python, Java, Artificial Intelligence and Hosting
+-🤖 CEO of Redstone Dynamics Group
+-💻 CINO of Dynamo Hosting
+-🎮 Founder and Owner of @RevsStudios
+-🤘 Over 3 years of experience in Technology
