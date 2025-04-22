@@ -2,4 +2,5 @@
 -🤖 CEO of Redstone Dynamics Group
 -💻 CINO of Dynamo Hosting
 -🎮 Founder and Owner of @RevsStudios
--🤘 Over 3 years of experience in Technology
+-🤘 Over 5 years of experience in Technology
+-🤖 Future AI Scientist
