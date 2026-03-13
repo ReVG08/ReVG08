@@ -1,6 +1,4 @@
 -👋 Computer Scientist who's specialized in Python, Java, Artificial Intelligence and Hosting
--🤖 CEO of Redstone Dynamics Group
--💻 CINO of Dynamo Hosting
 -🎮 Founder and Owner of @RevsStudios
 -🤘 Over 5 years of experience in Technology
 -🤖 Future AI Scientist
