@@ -1,4 +1,4 @@
--👋 Computer Scientist who's specialized in Python, Java, Artificial Intelligence and Hosting
+-👋 Future Ccmputer Scientist who's specialized in Python, Java, Artificial Intelligence and Hosting
 -🎮 Founder and Owner of @RevsStudios
--🤘 Over 5 years of experience in Technology
+-🤘 Over 6 years of experience in Technology
 -🤖 Future AI Scientist
